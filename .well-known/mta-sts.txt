@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mail.anonaddy.me
+mx: mail2.anonaddy.me
+max_age: 86400
